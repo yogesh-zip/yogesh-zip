@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Yogesh 👋
 
-<!--
-**yogesh-zip/yogesh-zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance meets data. Three+ years in accounting, GST compliance, e-invoicing and MIS reporting, now building analytics projects with SQL, Python and Power BI. Focused on BFSI and fintech.
 
-Here are some ideas to get you started:
+📍 Tamil Nadu, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do**
+- Turn messy finance and operations data into clear reports and dashboards
+- Write SQL for cleaning, joins and business analysis
+- Build Power BI dashboards and Python (Pandas) analyses
+- Bring an accounting background: reconciliation, compliance, MIS.
+
+**Certifications**
+- IABAC Certified Data Analyst
+- NASSCOM Data Analyst
+- Working toward Microsoft PL-300 (Power BI)
+
+Currently
+🎯 Targeting Data Analyst and MIS Analyst roles in BFSI and fintech
+📊 Preparing for PL-300
+
+**Connect**
+
+LinkedIn : https://www.linkedin.com/in/yogimohan
+Email    : yogeshmohan017@gmail.com
